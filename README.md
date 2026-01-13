@@ -8,6 +8,7 @@
 # Whats Here! 🐍
 
 * Lectures:
+  * [Lab 00: Routing and Windows](https://github.com/kerryallen89/SYS-265-01/wiki/Lab-00-%7C-Routing-and-Windows)
 * Labs:
 * Project Forks:
 
