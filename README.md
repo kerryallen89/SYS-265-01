@@ -9,7 +9,8 @@
 
 * Lectures:
 * Labs:
-  * [Week 1: Routing and Windows](https://github.com/kerryallen89/SYS-265-01/wiki/Lab-00-%7C-Routing-and-Windows)
+  * [Week 1 | Routing and Windows](https://github.com/kerryallen89/SYS-265-01/wiki/Lab-00-%7C-Routing-and-Windows)
+  * [Week 2 | Network Management](https://github.com/kerryallen89/SYS-265-01/wiki/Week-2-%7C-Network-Management)
 * Project Forks:
 
 ## Course Stuff:
