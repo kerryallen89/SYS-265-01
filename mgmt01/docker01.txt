@@ -1,2 +1,1 @@
-hostname
 mgmt01-kerry
