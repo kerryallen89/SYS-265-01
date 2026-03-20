@@ -13,6 +13,7 @@
   * [Week 2 | Network Management](https://github.com/kerryallen89/SYS-265-01/wiki/Week-2-%7C-Network-Management)
   * [Week 3 | DHCP](https://github.com/kerryallen89/SYS-265-01/wiki/Week-3-%7C-DHCP)
   * [Week 4 | Docker Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-4-%7C-Docker-Lab)
+  * [Week 5 | Git & Linux SSH Script Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-5-%7C-Git-and-Linux-SSH-Script)
 * Project Forks:
 
 ## Course Stuff:
