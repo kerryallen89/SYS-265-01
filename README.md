@@ -14,6 +14,7 @@
   * [Week 3 | DHCP](https://github.com/kerryallen89/SYS-265-01/wiki/Week-3-%7C-DHCP)
   * [Week 4 | Docker Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-4-%7C-Docker-Lab)
   * [Week 5 | Git & Linux SSH Script Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-5-%7C-Git-and-Linux-SSH-Script)
+  * [Week 7 | AD Group Policy & SW Deployment ](https://github.com/kerryallen89/SYS-265-01/wiki/Week-7-%7C-AD-Group-Policy-&-SW-Deployment)
 * Project Forks:
 
 ## Course Stuff:
