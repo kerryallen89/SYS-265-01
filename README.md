@@ -7,16 +7,16 @@
 
 # Whats Here! 🐍
 
-* Labs:
-  * [Week 1 | Routing and Windows](https://github.com/kerryallen89/SYS-265-01/wiki/Week-1-%7C-Routing-and-Windows)
-  * [Week 2 | Network Management](https://github.com/kerryallen89/SYS-265-01/wiki/Week-2-%7C-Network-Management)
-  * [Week 3 | DHCP](https://github.com/kerryallen89/SYS-265-01/wiki/Week-3-%7C-DHCP)
-  * [Week 4 | Docker Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-4-%7C-Docker-Lab)
-  * [Week 5 | Git & Linux SSH Script Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-5-%7C-Git-and-Linux-SSH-Script)
-  * [Week 7 | AD Group Policy & SW Deployment](https://github.com/kerryallen89/SYS-265-01/wiki/Week-7-%7C-AD-Group-Policy-&-SW-Deployment)
-  * [Week 8 | Certificates & Certificate Authorities](https://github.com/kerryallen89/SYS-265-01/wiki/Week-8-%7C-Certificates-&-Certificate-Authorities)
-* Project Forks:
-  * [CheckMK NMS || Network Management](https://docs.google.com/document/d/1dhDM1HUAnJ2fWrgjqQDdssdfex0KcC4jSLemxKOOdVE/edit?usp=sharing)
+### Labs:
+  * **[Week 1 | Routing and Windows](https://github.com/kerryallen89/SYS-265-01/wiki/Week-1-%7C-Routing-and-Windows)**
+  * **[Week 2 | Network Management](https://github.com/kerryallen89/SYS-265-01/wiki/Week-2-%7C-Network-Management)**
+  * **[Week 3 | DHCP](https://github.com/kerryallen89/SYS-265-01/wiki/Week-3-%7C-DHCP)**
+  * **[Week 4 | Docker Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-4-%7C-Docker-Lab)**
+  * **[Week 5 | Git & Linux SSH Script Lab](https://github.com/kerryallen89/SYS-265-01/wiki/Week-5-%7C-Git-and-Linux-SSH-Script)**
+  * **[Week 7 | AD Group Policy & SW Deployment](https://github.com/kerryallen89/SYS-265-01/wiki/Week-7-%7C-AD-Group-Policy-&-SW-Deployment)**
+  * **[Week 8 | Certificates & Certificate Authorities](https://github.com/kerryallen89/SYS-265-01/wiki/Week-8-%7C-Certificates-&-Certificate-Authorities)**
+ ### Project Forks:
+  * **[CheckMK NMS || Network Management](https://docs.google.com/document/d/1dhDM1HUAnJ2fWrgjqQDdssdfex0KcC4jSLemxKOOdVE/edit?usp=sharing)**
 
 ## Course Stuff:
 
