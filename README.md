@@ -17,6 +17,7 @@
   * [Week 7 | AD Group Policy & SW Deployment](https://github.com/kerryallen89/SYS-265-01/wiki/Week-7-%7C-AD-Group-Policy-&-SW-Deployment)
   * [Week 8 | Certificates & Certificate Authorities](https://github.com/kerryallen89/SYS-265-01/wiki/Week-8-%7C-Certificates-&-Certificate-Authorities)
 * Project Forks:
+  * [CheckMK NMS || Network Management](https://docs.google.com/document/d/1dhDM1HUAnJ2fWrgjqQDdssdfex0KcC4jSLemxKOOdVE/edit?usp=sharing)
 
 ## Course Stuff:
 
