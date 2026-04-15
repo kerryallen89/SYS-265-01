@@ -17,6 +17,7 @@
   * **[Week 8 | Certificates & Certificate Authorities](https://github.com/kerryallen89/SYS-265-01/wiki/Week-8-%7C-Certificates-&-Certificate-Authorities)**
  ### Project Forks:
   * **[CheckMK NMS || Network Management](https://docs.google.com/document/d/1dhDM1HUAnJ2fWrgjqQDdssdfex0KcC4jSLemxKOOdVE/edit?usp=sharing)**
+  * **[SYS-265 Final Project](https://github.com/AlanK23/SYS265-Final-Project/wiki)
 
 ## Course Stuff:
 
